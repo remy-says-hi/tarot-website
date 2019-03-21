@@ -1,0 +1,52 @@
+h1 {
+  font-style: italic;
+  font-family: cursive;
+  font-size: 70px;
+  color: #fbe2ff;
+  text-align: center;
+  border: 5px;
+  background: radial-gradient(rgb(255,105,180,1) 40%, rgba(255,0,0,0));
+  border-radius: 50%;
+}
+
+h2 {
+  font-style: italic;
+  font-family: cursive;
+  font-size: 40px;
+  text-align: center;
+  color: #fbe2ff;
+  /* border-width: 5px; */
+  /* border-style: solid; */
+  /* border-color: green; */
+  background: radial-gradient(rgb(255,105,180,1) 20%, rgba(255,0,0,0));
+  border-radius: 50%;
+}
+/* .left {
+  float: left;
+}
+.right {
+  float: right;
+} */
+
+p {
+  text-align: center;
+  color: #fbe2ff;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 30px;
+  font-weight: 600;
+  float: right;
+  width: 33%;
+}
+
+.special {
+  border: 5px;
+  background: radial-gradient(rgb(255,105,180,1) 30%, rgba(255,0,0,0));
+  border-radius: 50%;
+}
+
+
+body {
+  background-image: url(../gif/sparkle2.gif),  url(../img/flower5.jpg);
+  /* background-repeat: repeat-y; */
+}
